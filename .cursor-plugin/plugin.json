@@ -8,7 +8,7 @@
     "email": "hello@superlines.io"
   },
   "homepage": "https://superlines.io",
-  "repository": "https://github.com/superlines-io/superlines-cursor-plugin",
+  "repository": "https://github.com/Superlines/superlines-cursor-plugin",
   "license": "MIT",
   "logo": "assets/logo.svg",
   "keywords": [
