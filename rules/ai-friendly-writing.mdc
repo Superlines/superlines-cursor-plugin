@@ -1,0 +1,17 @@
+---
+description: Apply the 12 Principles of AI-Friendly Writing when creating or editing content that should be easily understood and cited by AI search engines.
+alwaysApply: false
+---
+ai-friendly-writing:
+  - Don't bury the point. Start with the main takeaway, then explain it.
+  - If a heading is a question, the first sentence must contain a direct answer.
+  - Keep sentences short with clear subject and verb. Avoid long chains of dependent clauses.
+  - State the point literally before adding personality or metaphors.
+  - Every pronoun ("it", "this", "that") must have an obvious referent in the same or previous sentence.
+  - One topic per paragraph. If introducing a new claim, start a new paragraph.
+  - Use clear heading hierarchy: H2 for core sections, H3 for subpoints.
+  - Keep terminology consistent. One term per concept throughout the document.
+  - Write confident, evidence-backed statements. Avoid constant hedging.
+  - Use semantically related terms naturally alongside the main keyword.
+  - Define acronyms and technical terms on first use.
+  - Make every paragraph quotable on its own — it should make sense even if extracted in isolation.

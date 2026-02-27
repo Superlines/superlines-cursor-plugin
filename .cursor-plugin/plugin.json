@@ -1,0 +1,38 @@
+{
+  "name": "superlines",
+  "displayName": "Superlines AI Search Intelligence",
+  "version": "1.0.0",
+  "description": "AI Search Intelligence plugin for Cursor. Track brand visibility, citations, and share of voice across ChatGPT, Gemini, Perplexity, Claude, and 10+ AI platforms. Includes GEO skills, optimization rules, and MCP server integration with 26+ analytics tools.",
+  "author": {
+    "name": "Superlines",
+    "email": "hello@superlines.io"
+  },
+  "homepage": "https://superlines.io",
+  "repository": "https://github.com/superlines-io/superlines-cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": [
+    "ai-search",
+    "geo",
+    "generative-engine-optimization",
+    "seo",
+    "brand-visibility",
+    "mcp",
+    "analytics",
+    "chatgpt",
+    "perplexity",
+    "gemini"
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "ai-search",
+    "seo",
+    "analytics",
+    "mcp",
+    "content-optimization"
+  ],
+  "skills": "./skills/",
+  "rules": "./rules/",
+  "agents": "./agents/",
+  "mcp": "./mcp.json"
+}

@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "superlines": {
+      "url": "https://us-central1-superlines-ai.cloudfunctions.net/mcpServer/mcp",
+      "headers": {
+        "Authorization": "Bearer ${SUPERLINES_API_KEY}"
+      }
+    }
+  }
+}

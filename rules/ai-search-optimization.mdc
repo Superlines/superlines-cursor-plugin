@@ -1,0 +1,15 @@
+---
+description: Apply Generative Engine Optimization (GEO) best practices when creating or editing web content, articles, documentation, or marketing pages.
+alwaysApply: false
+---
+ai-search-optimization:
+  - Start every section with the main takeaway (BLUF - Bottom Line Up Front). AI models extract the first 1-2 sentences as the answer.
+  - Use question-based headings (H2, H3) and answer them immediately in the first sentence below. This matches how users query AI assistants.
+  - Keep one idea per paragraph. Each paragraph should be independently quotable by an AI model.
+  - Use consistent terminology throughout. Pick one term per concept (e.g., always "GEO" not alternating with "AI SEO" and "LLM optimization").
+  - Include semantically related terms naturally. Don't just repeat the main keyword — surround it with the vocabulary of the topic.
+  - Write confident, evidence-backed statements. Avoid hedging ("it seems", "it might") unless genuinely uncertain.
+  - Define acronyms on first use. Write "Generative Engine Optimization (GEO)" before using "GEO" alone.
+  - Use structured data (JSON-LD) on every page. Prefer Organization, Article, FAQPage, Product, and HowTo schemas.
+  - Add FAQ sections with direct answers. These map directly to how users query AI assistants.
+  - Ensure your content is crawlable by AI bots (ChatGPT-User, Googlebot, PerplexityBot, ClaudeBot). Check robots.txt and meta tags.

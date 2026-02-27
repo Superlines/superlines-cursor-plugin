@@ -1,0 +1,15 @@
+---
+description: Standards for implementing Schema.org structured data (JSON-LD) to maximize AI search visibility and rich results eligibility.
+alwaysApply: false
+---
+structured-data-standards:
+  - Always use JSON-LD format for structured data. Place it in a <script type="application/ld+json"> tag in the <head>.
+  - Every page must have at minimum an Organization or WebSite schema at the site level.
+  - Article pages need Article or BlogPosting schema with headline, author, datePublished, dateModified, and publisher.
+  - Product pages need Product schema with name, description, offers (price, currency, availability), and aggregateRating when available.
+  - FAQ pages need FAQPage schema with Question and acceptedAnswer pairs.
+  - HowTo content needs HowTo schema with step-by-step instructions.
+  - Always include the @context "https://schema.org" and validate with Google's Rich Results Test.
+  - Keep schema data consistent with visible page content. Never include data in schema that isn't on the page.
+  - Use sameAs property to link to official social profiles and authoritative sources.
+  - Nest schemas when appropriate (e.g., author inside Article, offers inside Product).
